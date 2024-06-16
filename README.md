@@ -4,9 +4,9 @@
 This project utilizes Haar cascades, a machine learning-based approach, for facial detection and recognition. Haar cascades are a popular method for object detection in images, particularly known for their efficiency in detecting faces. They work by identifying features like edges, corners, and textures within an image.
 
 # Features
-**1. Facial Detection**
+**1. Facial Detection**\n
 Utilizes pre-trained Haar cascades to detect faces within images or video frames.
-Draws rectangles around detected faces for easy visualization.
+Draws rectangles around detected faces for easy visualization.\n
 **2. Eye Detection**
 Detects eyes within detected faces using a cascade classifier specifically trained for eye detection.
 Draws rectangles around detected eyes to highlight their positions.
