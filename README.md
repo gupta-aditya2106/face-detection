@@ -36,4 +36,11 @@ Offers a user-friendly interface for choosing between webcam feed and image proc
 Provides options to start processing the webcam feed or select an image file for processing.
 
 
- 
+![image](https://github.com/gupta-aditya2106/face-detection/assets/138894794/7c0e280d-2580-47ad-8534-19e128c06f2c)
+
+![image](https://github.com/gupta-aditya2106/face-detection/assets/138894794/bf2459fb-3c08-4fce-8ed6-1c1ee3b2bdb3)
+
+![image](https://github.com/gupta-aditya2106/face-detection/assets/138894794/f1f5a977-db69-4e81-bca5-ef6f3dec5287)
+
+
+
